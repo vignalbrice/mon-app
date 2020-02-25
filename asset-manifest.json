@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mon-app/static/css/main.c1a59f88.chunk.css",
+    "main.js": "/mon-app/static/js/main.c5f6a10c.chunk.js",
+    "main.js.map": "/mon-app/static/js/main.c5f6a10c.chunk.js.map",
+    "runtime-main.js": "/mon-app/static/js/runtime-main.95716fb9.js",
+    "runtime-main.js.map": "/mon-app/static/js/runtime-main.95716fb9.js.map",
+    "static/js/2.4bbf5628.chunk.js": "/mon-app/static/js/2.4bbf5628.chunk.js",
+    "static/js/2.4bbf5628.chunk.js.map": "/mon-app/static/js/2.4bbf5628.chunk.js.map",
+    "index.html": "/mon-app/index.html",
+    "precache-manifest.6be95abea10a8a19fe1168fa724c3794.js": "/mon-app/precache-manifest.6be95abea10a8a19fe1168fa724c3794.js",
+    "service-worker.js": "/mon-app/service-worker.js",
+    "static/css/main.c1a59f88.chunk.css.map": "/mon-app/static/css/main.c1a59f88.chunk.css.map",
+    "static/js/2.4bbf5628.chunk.js.LICENSE": "/mon-app/static/js/2.4bbf5628.chunk.js.LICENSE",
+    "static/media/EARTH.gif": "/mon-app/static/media/EARTH.886a6655.gif",
+    "static/media/facebook.png": "/mon-app/static/media/facebook.4100a677.png",
+    "static/media/google.png": "/mon-app/static/media/google.13ee934b.png",
+    "static/media/loading.gif": "/mon-app/static/media/loading.7ba725da.gif",
+    "static/media/movies.png": "/mon-app/static/media/movies.be01e1d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95716fb9.js",
+    "static/js/2.4bbf5628.chunk.js",
+    "static/css/main.c1a59f88.chunk.css",
+    "static/js/main.c5f6a10c.chunk.js"
+  ]
+}
